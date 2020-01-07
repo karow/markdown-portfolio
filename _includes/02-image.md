@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Another Image](https://images.newscientist.com/wp-content/uploads/2019/05/03155847/gettyimages-932737574-2.jpg)
