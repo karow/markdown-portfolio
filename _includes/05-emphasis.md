@@ -1,0 +1,3 @@
+- *cooking*
+- **traveling**
+- _cooking and **traveling**_
